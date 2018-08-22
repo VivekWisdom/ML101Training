@@ -1,0 +1,14 @@
+# Machine Learning Frameworks
+scikit-learn
+
+# Useful Python Libraries
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+requests
+jupyter
+pyyaml
+easydict
+python-dateutil
